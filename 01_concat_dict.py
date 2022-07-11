@@ -3,9 +3,9 @@
 '''
 You will be given three dictionaries, representing three sections -- containing rollnumber and corresponding Names
 
-B1 = {"110065001": "Ram", "110065002" : "Lakshman"}
-B2 = {"120065001": "Bharat", "120065002" : "Satrugna"}
-B3 = {"130065001": "Dhasaradh", "130065002" : "Babu"}
+B1 = {"110065009": "Rama", "110065002" : "Charan"}
+B2 = {"120065007": "Srinivas", "120065002" : "Mamatha"}
+B3 = {"130065009": "venu", "130065002" : "Narsing"}
 
 Each dictionary representing a particular section.
 
